@@ -1,0 +1,19 @@
+{
+    "name": "axsra/design-patterns",
+    "description": "My study prototypes on Design Patterns",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Axsra\\DesignPatterns\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Keep Cambiante",
+            "email": "keepcambiante@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
